@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lyricsMatch/static/css/main.36497136.chunk.css",
+    "main.js": "/lyricsMatch/static/js/main.0c689bb8.chunk.js",
+    "main.js.map": "/lyricsMatch/static/js/main.0c689bb8.chunk.js.map",
+    "runtime~main.js": "/lyricsMatch/static/js/runtime~main.d38bcabb.js",
+    "runtime~main.js.map": "/lyricsMatch/static/js/runtime~main.d38bcabb.js.map",
+    "static/js/2.9ea2ce6f.chunk.js": "/lyricsMatch/static/js/2.9ea2ce6f.chunk.js",
+    "static/js/2.9ea2ce6f.chunk.js.map": "/lyricsMatch/static/js/2.9ea2ce6f.chunk.js.map",
+    "index.html": "/lyricsMatch/index.html",
+    "precache-manifest.e5afba38ccea6e5bc00da176c8a94819.js": "/lyricsMatch/precache-manifest.e5afba38ccea6e5bc00da176c8a94819.js",
+    "service-worker.js": "/lyricsMatch/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/lyricsMatch/static/css/main.36497136.chunk.css.map"
+  }
+}
